@@ -12,7 +12,7 @@
 
 ### 🤩 Este repositório irá conter todo o conteúdo aprendido durante a formação ReactJS, mantendo assim um manual para consulta futura. </br> </br>
 
-#### 📚 #Módulo 1 - (JS e Novas Features): Apresentação da evolução da linguagem . </br> </br>
+#### 📚 #Módulo 1 - (JS e Novas Features): Por ser uma biblioteca moderna o React utiliza os conceitos mais modernos presentes no JavaScript e por isso precisamos entender como essa linguagem evolui nos últimos tempos e o paradigma da Orientação a Objetos. </br> </br>
 
 #### 📚 #Módulo 2 - (Webpack): Agora que conhecemos melhor o JavaScript enquanto linguagem precisamos fazer a integração entre ele e o código HTML de nossas páginas. Através disso vamos entender algumas dificuldades da criação de aplicações web apenas com HTML, CSS e JS. </br> </br>
 
